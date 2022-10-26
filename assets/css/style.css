@@ -28,3 +28,26 @@ ul> li >strong {
 	background-color: #FFFFFF;
 	color: rgb(232, 18, 18);
 }
+
+/* Alignment and Text color*/
+
+#move-left {
+	text-align: left;
+	position: inherit;;
+}
+
+header {
+	color: beige;
+}
+
+header > p {
+	color: white;
+}
+
+header {
+	background-color: black;
+}
+
+.text-white {
+	color: #FFFFFF;
+}
