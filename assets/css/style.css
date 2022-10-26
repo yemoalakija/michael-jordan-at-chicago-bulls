@@ -44,10 +44,30 @@ header > p {
 	color: white;
 }
 
+/* Background stylying*/
 header {
 	background-color: black;
 }
 
 .text-white {
 	color: #FFFFFF;
+}
+.black-background {
+    background-color: black;
+}
+
+#home {
+	background-image: url(../images/MJ\ Air\ dunk.png);
+	background-repeat: no-repeat no-repeat;
+	background-size: cover;
+	background-position: 0rem;
+
+}
+.page-header {
+	height: 50vh;
+	background: center 75% / cover no-repeat;
+}
+
+.form-page-header {
+	background-image: url(../images/many\ basketballs.jpg)
 }
