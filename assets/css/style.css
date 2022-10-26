@@ -150,7 +150,8 @@ footer {
     position: fixed;
     bottom: 0;
     right: 0;
-	z-index: 3;
+	
+   
 }
 
 /* Footer */
@@ -158,13 +159,17 @@ footer > span {
 	color: blue;
 }
 
-footer > a {
+footer {
 	color: yellow;
 	text-decoration: none;
 	padding: 0 15px;
 	font-size: 0.8rem;
+    background-color: black;
+   
 }
 
 footer > p {
 	color: orange;
 }
+
+
