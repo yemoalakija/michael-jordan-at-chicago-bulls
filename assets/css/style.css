@@ -71,3 +71,24 @@ header {
 .form-page-header {
 	background-image: url(../images/many\ basketballs.jpg)
 }
+
+/* Text styling*/
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+strong {
+	font-size: 1.3rem;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.underline {
+	text-decoration: underline;
+}
