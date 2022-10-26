@@ -1,3 +1,4 @@
+/* Body and Header */
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
 	margin: 0;
@@ -26,3 +27,4 @@ h2 {
 ul> li >strong {
 	background-color: #FFFFFF;
 	color: rgb(232, 18, 18);
+}
