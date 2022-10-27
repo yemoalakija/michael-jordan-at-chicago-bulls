@@ -29,6 +29,8 @@ ul> li >strong {
 	color: rgb(232, 18, 18);
 }
 
+
+
 /* Alignment and Text color*/
 
 #move-left {
@@ -74,7 +76,7 @@ header {
 	background-color: black;
 }
 
-.text-white {
+.tx-white {
 	color: #FFFFFF;
 }
 .black-background {
@@ -98,7 +100,7 @@ header {
 }
 
 /* Text styling*/
-.text-center {
+.tx-middle {
     text-align: center;
 }
 
@@ -110,7 +112,7 @@ strong {
 	font-size: 1.3rem;
 }
 
-.text-uppercase {
+.tx-uppercase {
     text-transform: uppercase;
 }
 
@@ -128,18 +130,18 @@ img {
 	margin: 2%;
 }
 
-/* Positioning*/.vertical-center {
+/* Positioning*/.vertical-middle {
     position: relative;
     top: 40%;
 }
 
-.one-third-width-column {
-    width: 33.33%;
+.tx-column {
+    width: 35%;
     display: inline-block;
 }
 
-.two-thirds-width-column {
-    width: 66.66%;
+.content-images {
+    width: 65%;
     display: inline-block;
 }
 
