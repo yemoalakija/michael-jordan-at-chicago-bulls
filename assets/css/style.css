@@ -5,11 +5,11 @@ body {
 	background-color: rgb(232, 18, 18);
 }
 
-h1,h2,h3 {
+h2 {
 	font-family: 'Merienda One', 'Brush Script MT', cursive;
 }
 
-h1 {
+h2 {
 	font-size: 3rem;
 	margin: 0;
 	color: rgb(232, 18, 18);
@@ -44,6 +44,31 @@ header > p {
 	color: white;
 }
 
+/* navigation links */
+
+.menu {
+    font-size: 100%;
+    letter-spacing: 5px;
+	font-weight: bold;
+	font-size: x-large;
+	color:#FFFFFF;
+}
+
+.menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+	
+}
+
+.active {
+	color:#FFFFFF;
+}
+
+.active:hover {
+		color: grey;
+		background-color: #FFFFFF;
+}
 /* Background stylying*/
 header {
 	background-color: black;
@@ -156,7 +181,7 @@ footer {
 
 /* Footer */
 footer > span {
-	color: blue;
+	color: #FFFFFF;
 }
 
 footer {
