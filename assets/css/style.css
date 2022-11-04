@@ -23,7 +23,7 @@ h2 {
 
 #h2textright {
 	text-align: center;
-	border: 5px solid black; 
+	border: 3px solid rgb(232, 18, 18); 
 	direction: rtl;
 	color: black;
 	background-color: #FFFFFF;
@@ -131,6 +131,8 @@ strong {
 
 .tx-uppercase {
     text-transform: uppercase;
+	margin-right: 1cm;
+	font-size: x-small;
 }
 
 
@@ -156,13 +158,13 @@ img {
 .tx-column {
     width: 50%;
     display: inline-block;
-	height: 1000px;
+	height: 1100px;
 	background-color: black;
 }
 
 .content-images {
     width: 50%;
-	height: 1000px;
+	height: 1100px;
     display: inline-block;
 	background-color: rgb(232, 18, 18);
 }
@@ -186,7 +188,7 @@ label {
 footer {
 	background-color: #FFFFFF
 	width: 100%;
-	height: 100px;
+	height: 80px;
 	display: inline-block;
 }
 
