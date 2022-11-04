@@ -1,7 +1,6 @@
 /* Body and Header */
 body {
 	font-family: Arial, sans-serif;
-	background-color:aqua;
 }
 
 h1 {
@@ -9,7 +8,8 @@ h1 {
 }
 
 h2 {
-	font-family: Arial, sans-serif
+	font-family: Arial, sans-serif;
+	background-color: rgb(232, 18, 18)
 }
 
 
@@ -30,7 +30,6 @@ h2 {
 	margin-bottom: 1cm;
 	margin-top: 1cm;
 	margin-left: 1cm;
-
 }
 
 ul> li >strong {
@@ -38,19 +37,17 @@ ul> li >strong {
 	color: rgb(232, 18, 18);
 }
 
+p {
+	font-size: medium;
+}
+
 #caption {
 	margin-right: 55%;
 	text-align: center;
 	padding-right: 40px;
-	
-
-	
 }
 
-
-
 /* Alignment and Text color*/
-
 #move-left {
 	text-align: left;
 	position: inherit;;
@@ -109,7 +106,8 @@ header > p {
 	float: left;
 	border-radius: 120px;
 	border: 5px solid #FFFFFF;
-	
+
+
 }
 
 .page-header {
@@ -156,14 +154,17 @@ img {
 }
 
 .tx-column {
-    width: 35%;
+    width: 50%;
     display: inline-block;
+	height: 1000px;
+	background-color: black;
 }
 
 .content-images {
-    width: 65%;
-	height: auto;
+    width: 50%;
+	height: 1000px;
     display: inline-block;
+	background-color: rgb(232, 18, 18);
 }
 
 
@@ -181,18 +182,25 @@ label {
 }
 
 /* Footer */
-footer > span {
-	color: #FFFFFF;
-}
 
 footer {
-	color: yellow;
-	text-decoration: none;
-	padding: 0 15px;
-	font-size: 0.8rem;
-    background-color: black;
-   
+	background-color: #FFFFFF
+	width: 100%;
+	height: 100px;
+	display: inline-block;
 }
 
+.social-media {
+	color: black;
+	font-size: larger;
+	
+}
 
+span {
+	color:rgb(232, 18, 18)
+}
 
+span:hover {
+	background-color: rgb(232, 18, 18);
+	color: #FFFFFF;
+}
