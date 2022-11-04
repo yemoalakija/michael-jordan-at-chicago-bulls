@@ -18,3 +18,7 @@ https://www.everypixel.com/q/many-basketball?image_id=3809118740058804363
 https://seeklogo.com/vector-logo/249062/nba-i-love-this-game
 
 https://www.youtube.com/watch?v=cuLprHh_BRg
+
+
+BUGS
+Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 
