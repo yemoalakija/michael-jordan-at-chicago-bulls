@@ -23,13 +23,15 @@ h2 {
 
 #h2textright {
 	text-align: center;
-	border: 3px solid rgb(232, 18, 18); 
-	direction: rtl;
+	border: 3px solid rgb(232, 18, 18);
 	color: black;
 	background-color: #FFFFFF;
 	margin-bottom: 1cm;
 	margin-top: 1cm;
-	margin-left: 1cm;
+	margin-right: 1px;
+	border-bottom-right-radius: 5cm;
+	border-bottom-left-radius: 5cm;
+	
 }
 
 ul> li >strong {
