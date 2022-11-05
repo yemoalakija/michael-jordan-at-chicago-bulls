@@ -1,6 +1,78 @@
-/* Body and Header */
+/* Body and Header - Index */
+
+#homeindex {
+	background-image: url(../images/MJ\ white\ background\ dunk.png);
+	background-repeat: no-repeat no-repeat;
+	background-size: cover;
+	background-position: 0rem;
+	height: 400px;
+	width: 100%;
+	float: left;
+	border-top-right-radius: 120px;
+	border-top-left-radius: 120px;
+	border: 5px solid rgb(232, 18, 18);
+}
+
+.mainhead {
+	background: grey;
+}
+
+.active1 {
+	color: grey;
+	font-size: large;	
+	letter-spacing: -2px;
+}
+
+.active1:hover {
+	background-color: grey;
+	color: #FFFFFF;
+}
+
+#caption1 {
+	margin-right: 55%;
+	text-align: left;
+	padding-right: 40px;
+	color: grey;
+}
+
+.vertical-middle1 {
+    position: relative;
+    top: 10%;
+	margin-left: 5%;
+	font-size: larger;
+	color: black;
+}
+
+.vertical-middle > span {
+	color: rgb(232, 18, 18);
+}
+.tx-column1 {
+    width: 50%;
+    display: inline-block;
+	height: 1100px;
+	background-color: black;
+}
+
+.content-images1 {
+    width: 50%;
+	height: 1100px;
+    display: inline-block;
+	background-color: rgb(232, 18, 18);
+}
+
+
+
+
+
+
+
+
+
+
+/* Body and Header - Legacy */
 body {
 	font-family: Arial, sans-serif;
+	background-color: grey;
 }
 
 h1 {
@@ -9,14 +81,12 @@ h1 {
 
 h2 {
 	font-family: Arial, sans-serif;
-	background-color: rgb(232, 18, 18)
 }
 
 
 h2 {
 	font-size: x-large;
 	color: #FFFFFF;
-	background-color:rgb(232, 18, 18);
 	text-align: left;
 	font-family: sans-serif, 'Courier New', Courier, monospace;
 }
@@ -47,7 +117,6 @@ p {
 	margin-right: 55%;
 	text-align: left;
 	padding-right: 40px;
-
 }
 
 /* Alignment and Text color*/
@@ -83,7 +152,7 @@ header > p {
 .active {
 	color:#FFFFFF;
 	font-size: large;	
-	letter-spacing: -1px;
+	letter-spacing: -2px;
 }
 
 .active:hover {
@@ -104,11 +173,13 @@ header > p {
 	background-repeat: no-repeat no-repeat;
 	background-size: cover;
 	background-position: 0rem;
-	height: 800px;
+	height: 350px;
 	float: left;
-	border-radius: 120px;
+	border-top-right-radius: 120px;
+	border-top-left-radius: 120px;
 	border: 5px solid #FFFFFF;
 }
+
 
 .page-header {
 	height: 50vh;
@@ -149,7 +220,7 @@ img {
 
 .vertical-middle {
     position: relative;
-    top: 2%;
+    top: 10%;
 	margin-left: 5%;
 	font-size: larger;
 }
@@ -159,6 +230,7 @@ img {
     display: inline-block;
 	height: 1100px;
 	background-color: black;
+	
 }
 
 .content-images {
@@ -166,6 +238,7 @@ img {
 	height: 1100px;
     display: inline-block;
 	background-color: rgb(232, 18, 18);
+	
 }
 
 
@@ -235,7 +308,7 @@ span:hover {
 		width: -300%;
 		font-size: xx-small;
 		float: left;
-		margin-right: 60%
+		margin-right: 60%;
 	}
 
 	.tx-column {

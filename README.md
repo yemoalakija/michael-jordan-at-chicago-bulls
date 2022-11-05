@@ -25,6 +25,12 @@ https://www.denverpost.com/2020/04/16/micheal-jordan-sixth-nba-title-bulls/
 
 https://www.reddit.com/r/Sneakers/comments/8xm2x3/michael_jordan_display_at_trophy_room_orlando/
 
+https://www.britannica.com/biography/Michael-Jordan
+
+https://en.wikipedia.org/wiki/Michael_Jordan
+
+https://www.google.com/search?q=about+michael+jordan+&biw=1280&bih=512&ei=folmY8LkNZCEhbIPwfSVwAE&ved=0ahUKEwjCm5G8tZf7AhUQQkEAHUF6BRg4HhDh1QMIDw&uact=5&oq=about+michael+jordan+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BQghEKABOggIIRAWEB4QHToFCAAQhgM6CAgAEBYQHhAKSgQIQRgASgQIRhgAUOkEWJMXYM4baAFwAXgAgAGQAYgB_QmSAQM4LjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp
+
 
 BUGS
 Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 
