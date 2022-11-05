@@ -19,6 +19,12 @@ https://seeklogo.com/vector-logo/249062/nba-i-love-this-game
 
 https://www.youtube.com/watch?v=cuLprHh_BRg
 
+https://www.nicepng.com/ourpic/u2e6y3i1e6q8q8o0_free-jordan-logo-png-michael-jordan-slam-dunk/
+
+https://www.denverpost.com/2020/04/16/micheal-jordan-sixth-nba-title-bulls/
+
+https://www.reddit.com/r/Sneakers/comments/8xm2x3/michael_jordan_display_at_trophy_room_orlando/
+
 
 BUGS
 Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 
