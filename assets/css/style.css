@@ -206,7 +206,7 @@ span:hover {
 	color: #FFFFFF;
 }
 
-/* For medium screen size from 950px wide and down */
+/* For medium screen size from 800px wide and down */
 
 @media screen and (max-width: 800px) {
     body {
@@ -230,10 +230,27 @@ span:hover {
 	}
 
 	#caption {
-		padding: -10px; 
+		padding: -30px 0; 
         text-align: left;
-		width: 200%;
+		width: -300%;
 		font-size: xx-small;
 		float: left;
+		margin-right: 60%
+	}
+
+	.tx-column {
+		width: 50%;
+		height: 2000px;
+		font-size: xx-small;
+	}
+	
+	.content-images {
+		width: 50%;
+		height: 2000px;
+	}
+
+	#h2textright {
+		width: 100%;
+		font-size: medium;
 	}
 }
