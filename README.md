@@ -13,6 +13,8 @@ https://www.lovethispic.com/image/96497/michael-jordan-(freethrow-preperations)
 
 https://wallpaper.dog/michael-jordan-chicago-bulls-wallpapers
 
+https://www.nike.com/gb/launch/t/ajko-1-chicago
+
 https://www.everypixel.com/q/many-basketball?image_id=3809118740058804363
 
 https://seeklogo.com/vector-logo/249062/nba-i-love-this-game
@@ -31,6 +33,13 @@ https://en.wikipedia.org/wiki/Michael_Jordan
 
 https://www.google.com/search?q=about+michael+jordan+&biw=1280&bih=512&ei=folmY8LkNZCEhbIPwfSVwAE&ved=0ahUKEwjCm5G8tZf7AhUQQkEAHUF6BRg4HhDh1QMIDw&uact=5&oq=about+michael+jordan+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BQghEKABOggIIRAWEB4QHToFCAAQhgM6CAgAEBYQHhAKSgQIQRgASgQIRhgAUOkEWJMXYM4baAFwAXgAgAGQAYgB_QmSAQM4LjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp
 
+https://www.republicworld.com/sports-news/basketball-news/michael-jordan-outweighed-entire-chicago-bulls-team-combined-nba-news.html
+
+https://www.pinterest.com/pin/594404850809393386/
+
+https://www.grailify.com/en/michael-jordan-all-you-need-to-know-about-the-legend/
+
+https://www.diffen.com/difference/Kobe_Bryant_vs_Michael_Jordan
 
 BUGS
 Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 
