@@ -43,5 +43,7 @@ https://www.diffen.com/difference/Kobe_Bryant_vs_Michael_Jordan
 
 https://www.thesouthafrican.com/sport/michael-jordan-last-dance-jersey-to-be-auctioned-for-expected-mega-sum-latest-nba-basketball-news-sothebys-11-august-2022/
 
+https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael-jordan-and-chicago-bulls-won-6-championships-in-two-three-peats
+
 BUGS
 Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 

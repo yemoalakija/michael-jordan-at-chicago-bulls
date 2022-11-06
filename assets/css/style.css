@@ -53,14 +53,14 @@
 .tx-column1 {
     width: 50%;
     display: inline-block;
-	height: 1100px;
+	height: auto;
 	background-color: black;
 }
 
 /* Content Body */
 .content-images1 {
     width: 50%;
-	height: 1100px;
+	height: auto;
     display: inline-block;
 	background-color: rgb(232, 18, 18);
 }
@@ -103,6 +103,7 @@ ul > li {
 body {
 	font-family: cursive, Arial, sans-serif; 
 	background-color: #FFFFFF;
+	margin: 2%;
 }
 
 h1 {
@@ -264,14 +265,14 @@ img {
 .tx-column {
     width: 50%;
     display: inline-block;
-	height: 1100px;
+	height:auto;
 	background-color: #FFFFFF;
 	
 }
 
 .content-images {
     width: 50%;
-	height: 1100px;
+	height:auto;
     display: inline-block;
 	background-color: #FFFFFF;
 	
@@ -289,10 +290,6 @@ img {
 
 label {
     margin: 10px 15px 5px 0;
-}
-
-.hr-line {
-	border-style: double;
 }
 
 /* Footer */
