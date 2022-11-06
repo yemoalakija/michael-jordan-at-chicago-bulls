@@ -33,7 +33,7 @@
 	text-align: left;
 	padding-right: 20px;
 	padding-bottom: 30px;
-	color: #FFFFFF;
+	color: yellow;
 	font-style: italic;
 	padding-top: 40px;
 	font-family: cursive, Arial, sans-serif; 
@@ -127,8 +127,8 @@ h2 {
 }
 
 ul> li >strong {
-	background-color: #FFFFFF;
-	color: rgb(232, 18, 18);
+	background-color: rgb(232, 18, 18);
+	color: #FFFFFF;
 }
 
 p {
@@ -143,6 +143,7 @@ p {
 	font-style: italic; 
 	padding-top: 40px;
 	float: right;
+	color: yellow;
 }
 
 /* Alignment and Text color*/
@@ -191,7 +192,7 @@ header > p {
 
 
 .tx-white {
-	color: #FFFFFF;
+	color: black;
 }
 
 #home {
@@ -249,13 +250,14 @@ img {
     top: 10%;
 	margin-left: 5%;
 	font-size: small;
+	color: rgb(232, 18, 18);
 }
 
 .tx-column {
     width: 50%;
     display: inline-block;
 	height: 1100px;
-	background-color: grey;
+	background-color: #FFFFFF;
 	
 }
 
@@ -288,14 +290,14 @@ label {
 /* Footer */
 
 footer {
-	background-color: #FFFFFF;
+	background-color: black;
 	width: 100%;
 	height: 80px;
 	display: inline-block;
 }
 
 .social-media {
-	color: black;
+	color: #FFFFFF;
 	font-size: larger;
 	
 }
