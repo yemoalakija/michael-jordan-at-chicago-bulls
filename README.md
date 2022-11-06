@@ -41,5 +41,7 @@ https://www.grailify.com/en/michael-jordan-all-you-need-to-know-about-the-legend
 
 https://www.diffen.com/difference/Kobe_Bryant_vs_Michael_Jordan
 
+https://www.thesouthafrican.com/sport/michael-jordan-last-dance-jersey-to-be-auctioned-for-expected-mega-sum-latest-nba-basketball-news-sothebys-11-august-2022/
+
 BUGS
 Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 
