@@ -45,5 +45,7 @@ https://www.thesouthafrican.com/sport/michael-jordan-last-dance-jersey-to-be-auc
 
 https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael-jordan-and-chicago-bulls-won-6-championships-in-two-three-peats
 
+https://andscape.com/features/during-the-last-dance-ill-remember-how-michael-jordan-brought-me-closer-to-the-most-important-man-in-my-life/
+
 BUGS
 Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 
