@@ -321,7 +321,50 @@ span:hover {
 	color: #FFFFFF;
 }
 
+/* Contact Us Form */
 
+#homecontact {
+	background-image: url(../images/back\ of\ jersey.jpg);
+	background-repeat: no-repeat no-repeat;
+	background-size: 1220px 400px;
+	background-position: 0rem;
+	height: 380px;
+	width: 100%;
+	float: left;
+	border-top-right-radius: 120px;
+	border-top-left-radius: 120px;
+	border: 5px solid rgb(232, 18, 18);
+}
+
+input[type=submit] {
+	background-color: rgb(232, 18, 18);
+	color: #FFFFFF;
+	padding: 13px 21px;
+	border: none;
+	border-radius: 5px;
+	cursor: auto;
+  }
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 13px;
+  border: 2px solid darkgrey;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 7px;
+  margin-bottom: 17px;
+  resize: vertical;
+}
+
+.container {
+  border-radius: 6px;
+  background-color:#FFFFFF;
+  padding: 21px;
+}
+
+input[type=submit]:hover {
+	background-color: rgb(232, 18, 18);
+  }
 
 /* For medium screen size from 800px wide and down */
 
