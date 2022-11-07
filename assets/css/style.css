@@ -70,22 +70,24 @@
 	color: black;
 }
 
-#tx-lowercase1 {
-	color: black;
-}
 
 #text-black {
-	color: black;
+	text-align: left;
 	border: 3px solid rgb(232, 18, 18);
+	color: #FFFFFF;
+	background-color: black;
 }
 
 #text-black2 {
-	color: black;
+	text-align: left;
 	border: 3px solid rgb(232, 18, 18);
+	color: #FFFFFF;
+	background-color: black;
 }
 
 ul > li {
 	list-style-type: square;
+	color: black;
 }
 
 .justifytx {
@@ -125,8 +127,8 @@ h2 {
 #h2textright {
 	text-align: center;
 	border: 3px solid rgb(232, 18, 18);
-	color: black;
-	background-color: #FFFFFF;
+	color: #FFFFFF;
+	background-color: black;
 }
 
 ul> li >strong {
@@ -266,19 +268,22 @@ img {
     width: 50%;
     display: inline-block;
 	height:auto;
-	background-color: #FFFFFF;
-	
+	background-color: #FFFFFF;	
 }
 
 .content-images {
     width: 50%;
 	height:auto;
     display: inline-block;
-	background-color: #FFFFFF;
-	
+	background-color: #FFFFFF;	
 }
 
-
+.bio-image {
+    width: 50%;
+	height:auto;
+    display: inline-block;
+	background-color: #FFFFFF;	
+}
 
 .float-left {
     float: left;
