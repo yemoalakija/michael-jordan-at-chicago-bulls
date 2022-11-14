@@ -13,10 +13,6 @@
 	border: 5px solid rgb(232, 18, 18);
 }
 
-.mainhead {
-	background: black;
-}
-
 .active1 {
 	color: #FFFFFF;
 	font-size: large;	
@@ -58,18 +54,11 @@
 }
 
 /* Content Body */
-.content-images1 {
-    width: 50%;
-	height: auto;
-    display: inline-block;
-	background-color: rgb(232, 18, 18);
-}
 
 .content-body {
 	background-color: #FFFFFF;
 	color: black;
 }
-
 
 #text-black {
 	text-align: left;
@@ -93,13 +82,6 @@ ul > li {
 .justifytx {
 	text-align: justify;
 }
-
-
-
-
-
-
-
 
 /* Body and Header - Legacy */
 body {
@@ -197,10 +179,7 @@ header > p {
 	color: grey;
 }
 
-
 /* Background stylying*/
-
-
 .tx-white {
 	color: black;
 }
@@ -218,12 +197,10 @@ header > p {
   	
 }	
 
-
 .page-header {
 	height: 50vh;
 	background: center 75% / cover no-repeat;
 }
-
 
 /* Text styling*/
 .tx-middle {
@@ -278,23 +255,12 @@ img {
 	background-color: #FFFFFF;	
 }
 
-.bio-image {
-    width: 50%;
-	height:auto;
-    display: inline-block;
-	background-color: #FFFFFF;	
-}
-
 .float-left {
     float: left;
 }
 
 .float-right {
     float: right;
-}
-
-label {
-    margin: 10px 15px 5px 0;
 }
 
 /* Footer */
@@ -366,7 +332,56 @@ input[type=submit]:hover {
 	background-color: rgb(232, 18, 18);
   }
 
-/* For medium screen size from 800px wide and down */
+/* HOME - For medium screen size from 800px wide and down */
+
+@media screen and (max-width: 800px) {
+    body {
+		height: 1200px;
+		width: 100%;
+	}
+
+	#home {
+		width: 100%;
+        clear: both; 
+        height: 400px;
+        padding: 10px;
+	}
+	
+	.vertical-middle1 {
+		padding: 0px; 
+        text-align: left;
+		width: 200%;
+		font-size: xx-small;
+		float: left;
+	}
+
+	#caption1 {
+		padding: -30px 0; 
+        text-align: left;
+		width: -300%;
+		font-size: xx-small;
+		float: left;
+		margin-right: 60%;
+	}
+
+	.tx-column {
+		width: 50%;
+		height: 2000px;
+		font-size: xx-small;
+	}
+	
+	.content-images {
+		width: 50%;
+		height: 2000px;
+	}
+
+	#h2textright {
+		width: 100%;
+		font-size: medium;
+	}
+}
+
+/* LEGACY - For medium screen size from 800px wide and down */
 
 @media screen and (max-width: 800px) {
     body {
