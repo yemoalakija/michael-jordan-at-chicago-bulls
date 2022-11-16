@@ -129,12 +129,12 @@ p {
 
 #caption {
 	margin-right: 55%;
-	text-align: left;
+	text-align:left;
 	padding-right: 40px;
 	font-family: cursive, Arial, sans-serif;
 	font-style: italic; 
-	padding-top: 40px;
-	float: right;
+	padding-top: 1px;
+	float: left;
 	color: #FFFFFF;
 }
 
@@ -332,100 +332,24 @@ input[type=submit]:hover {
 	background-color: rgb(232, 18, 18);
   }
 
-/* HOME - For medium screen size from 800px wide and down */
+/* For medium screen size from 800px wide and down */
 
 @media screen and (max-width: 800px) {
-    body {
-		height: 1200px;
-		width: 100%;
-	}
-
-	#home {
-		width: 100%;
-        clear: both; 
-        height: 400px;
-        padding: 10px;
-	}
-	
-	.vertical-middle1 {
-		padding: 0px; 
-        text-align: left;
-		width: 200%;
-		font-size: xx-small;
-		float: left;
-	}
-
-	#caption1 {
-		padding: -30px 0; 
-        text-align: left;
-		width: -300%;
-		font-size: xx-small;
-		float: left;
-		margin-right: 60%;
-	}
-
-	.tx-column {
-		width: 50%;
-		height: 2000px;
-		font-size: xx-small;
-	}
-	
-	.content-images {
-		width: 50%;
-		height: 2000px;
-	}
-
-	#h2textright {
-		width: 100%;
-		font-size: medium;
-	}
-}
-
-/* LEGACY - For medium screen size from 800px wide and down */
-
-@media screen and (max-width: 800px) {
-    body {
-		height: 1200px;
-		width: 100%;
-	}
-
-	#home {
-		width: 100%;
-        clear: both; 
-        height: 400px;
-        padding: 10px;
-	}
-	
-	.vertical-middle {
-		padding: 0px; 
-        text-align: left;
-		width: 200%;
-		font-size: xx-small;
-		float: left;
-	}
 
 	#caption {
-		padding: -30px 0; 
-        text-align: left;
-		width: -300%;
-		font-size: xx-small;
-		float: left;
-		margin-right: 60%;
+		margin-right: 10%;
 	}
 
-	.tx-column {
-		width: 50%;
-		height: 2000px;
-		font-size: xx-small;
-	}
-	
-	.content-images {
-		width: 50%;
-		height: 2000px;
+	#home {
+		background-size: 800px 500px;
+		background-position: 0rem;
+		height: 380px;
 	}
 
-	#h2textright {
-		width: 100%;
-		font-size: medium;
+	#homecontact {
+		background-size: 800px 500px;
+		background-position: 0rem;
+		height: 380px;
 	}
+
 }
