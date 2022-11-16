@@ -32,7 +32,7 @@
 	color: #FFFFFF;
 	font-style: italic;
 	padding-top: 40px;
-	font-family: cursive, Arial, sans-serif; 
+	font-family: Arial, Helvetica, sans-serif; 
 }
 
 .vertical-middle1 {
@@ -85,7 +85,7 @@ ul > li {
 
 /* Body and Header - Legacy */
 body {
-	font-family: cursive, Arial, sans-serif; 
+	font-family: Arial, Helvetica, sans-serif;
 	background-color: #FFFFFF;
 	margin: 2%;
 }
@@ -95,7 +95,7 @@ h1 {
 }
 
 h2 {
-	font-family: cursive, Arial, sans-serif; 
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -103,7 +103,7 @@ h2 {
 	font-size: x-large;
 	color: #FFFFFF;
 	text-align: left;
-	font-family: cursive, Arial, sans-serif; 
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 #h2textright {
@@ -131,7 +131,7 @@ p {
 	margin-right: 55%;
 	text-align:left;
 	padding-right: 40px;
-	font-family: cursive, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-style: italic; 
 	padding-top: 1px;
 	float: left;
