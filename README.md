@@ -47,5 +47,7 @@ https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael
 
 https://andscape.com/features/during-the-last-dance-ill-remember-how-michael-jordan-brought-me-closer-to-the-most-important-man-in-my-life/
 
+https://www.pinterest.com/pin/520447300658081068/
+
 BUGS
 Nav links "Home, Legacy, and Contact-Us" stopped working. Solution - Adjusted class="vertical-middle" downwards away from Nav link line. 

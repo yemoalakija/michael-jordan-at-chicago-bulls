@@ -1,11 +1,11 @@
 /* Body and Header - Index */
 
 #homeindex {
-	background-image: url(../images/Mike\ background.jpg);
+	background-image: url(../images/Mike\ background.webp);
 	background-repeat: no-repeat no-repeat;
 	background-size: 100%;
 	background-position: 0rem;
-	height: 700px;
+	height: 550px;
 	width: 100%;
 	float: left;	
 }
@@ -36,7 +36,7 @@
     position: relative;
     top: 10%;
 	margin-left: 5%;
-	font-size: x-large;
+	font-size: large;
 	color: #FFFFFF;
 }
 
@@ -85,6 +85,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	background-color: #FFFFFF;
 	margin: 2%;
+	background: fixed;
 }
 
 h1 {
@@ -182,11 +183,11 @@ header > p {
 }
 
 #home {
-	background-image: url(../images/Mike\ background.jpg);
+	background-image: url(../images/Mike\ background.webp);
 	background-repeat: no-repeat no-repeat;
 	background-size: 100%;
 	background-position: 0rem;
-	height: 700px;
+	height: 550px;
 	width: 100%;
 	float: left;	
 }	
@@ -231,7 +232,7 @@ img {
     position: relative;
     top: 10%;
 	margin-left: 5%;
-	font-size:x-large;
+	font-size: large;
 	color: #FFFFFF;
 }
 
@@ -284,11 +285,11 @@ span:hover {
 /* Contact Us Form */
 
 #homecontact {
-	background-image: url(../images/Mike\ background.jpg);
+	background-image: url(../images/Mike\ background.webp);
 	background-repeat: no-repeat no-repeat;
 	background-size: 100%;
 	background-position: 0rem;
-	height: 700px;
+	height: 550px;
 	width: 100%;
 	float: left;	
 }
@@ -324,29 +325,39 @@ input[type=submit]:hover {
 	background-color: rgb(232, 18, 18);
   }
 
-/* For medium screen size from 400px wide and down */
+/* For small screen size from 375px wide and down */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 375px) {
 
 	#caption {
 		margin-right: 10%;
 	}
 
 	#home {
-		background-size: 375px 423px;
+		background-size: 375px 850px;
 		background-position: 0rem;
-		height: 380px;
+		height: 850px;
+	}
+
+	.tx-column {
+		width: 100%;
+		height: 50%;
+	}
+
+	.content-images  {
+		height: 50%;
+
 	}
 
 	#homeindex {
-		background-size: 375px 423px;
+		background-size: 280px 850px;
 		background-position: 0rem;
-		height: 380px;
-	}
-	#homecontact {
-		background-size: 375px 423px;
-		background-position: 0rem;
-		height: 380px;
+		height: 850px;
 	}
 
+	#homecontact {
+		background-size: 280px 850px;
+		background-position: 0rem;
+		height: 850px;
+	}
 }
