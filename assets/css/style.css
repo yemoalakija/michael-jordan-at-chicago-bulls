@@ -38,6 +38,7 @@
 	margin-left: 5%;
 	font-size: large;
 	color: #FFFFFF;
+	padding-top: 15%;
 }
 
 .vertical-middle > span {
@@ -232,8 +233,9 @@ img {
     position: relative;
     top: 10%;
 	margin-left: 5%;
-	font-size: large;
+	font-size: medium;
 	color: #FFFFFF;
+	padding-top: 15%;
 }
 
 .tx-column {
@@ -359,5 +361,17 @@ input[type=submit]:hover {
 		background-size: 280px 850px;
 		background-position: 0rem;
 		height: 850px;
+	}
+
+	.vertical-middle {
+		font-size: xx-small;
+	}
+
+	.vertical-middle1 {
+		font-size: xx-small;
+	}
+
+	#caption {
+		font-size: x-small;
 	}
 }
