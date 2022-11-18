@@ -26,7 +26,7 @@
 	text-align: left;
 	padding-right: 20px;
 	padding-bottom: 30px;
-	color: rgb(232, 18, 18);
+	color: aqua;
 	font-style: italic;
 	padding-top: 40px;
 	font-family: Arial, Helvetica, sans-serif; 
@@ -41,6 +41,7 @@
 	font-size: large;
 	color: #FFFFFF;
 	padding-top: 15%;
+	
 }
 
 .vertical-middle > span {
@@ -136,7 +137,7 @@ p {
 	font-style: italic; 
 	padding-top: 1px;
 	float: left;
-	color: rgb(232, 18, 18);
+	color: aqua
 	cursor: pointer;
 	font-size: large;
 	font-weight: bolder;
@@ -335,7 +336,7 @@ input[type=submit]:hover {
 
 /* For small screen size from 375px wide and down */
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 850px) {
 
 	#caption {
 		margin-right: 10%;
@@ -343,7 +344,6 @@ input[type=submit]:hover {
 
 	#home {
 		background-size: 375px 850px;
-		background-position: 0rem;
 		height: 850px;
 	}
 
@@ -353,14 +353,12 @@ input[type=submit]:hover {
 	}
 
 	#homeindex {
-		background-size: 280px 850px;
-		background-position: 0rem;
+		background-size: 375px 850px;
 		height: 850px;
 	}
 
 	#homecontact {
-		background-size: 280px 850px;
-		background-position: 0rem;
+		background-size: 375px 850px;
 		height: 850px;
 	}
 
