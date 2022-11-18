@@ -26,10 +26,12 @@
 	text-align: left;
 	padding-right: 20px;
 	padding-bottom: 30px;
-	color: #FFFFFF;
+	color: rgb(232, 18, 18);
 	font-style: italic;
 	padding-top: 40px;
 	font-family: Arial, Helvetica, sans-serif; 
+	font-size: large;
+	font-weight: bolder;
 }
 
 .vertical-middle1 {
@@ -134,8 +136,12 @@ p {
 	font-style: italic; 
 	padding-top: 1px;
 	float: left;
-	color: #FFFFFF;
+	color: rgb(232, 18, 18);
+	cursor: pointer;
+	font-size: large;
+	font-weight: bolder;
 }
+
 
 /* Alignment and Text color*/
 #move-left {
@@ -343,12 +349,7 @@ input[type=submit]:hover {
 
 	.tx-column {
 		width: 100%;
-		height: 50%;
-	}
-
-	.content-images  {
-		height: 50%;
-
+		
 	}
 
 	#homeindex {
