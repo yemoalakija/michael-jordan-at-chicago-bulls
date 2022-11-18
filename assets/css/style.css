@@ -343,7 +343,7 @@ input[type=submit]:hover {
 	}
 
 	#home {
-		background-size: 375px 850px;
+		background-size: 850px 850px;
 		height: 850px;
 	}
 
@@ -353,12 +353,12 @@ input[type=submit]:hover {
 	}
 
 	#homeindex {
-		background-size: 375px 850px;
+		background-size: 850px 850px;
 		height: 850px;
 	}
 
 	#homecontact {
-		background-size: 375px 850px;
+		background-size: 850px 850px;
 		height: 850px;
 	}
 
