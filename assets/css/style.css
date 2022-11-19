@@ -334,6 +334,11 @@ input[type=submit]:hover {
 	background-color: rgb(232, 18, 18);
   }
 
+.sourcelink {
+	margin-left: 20px;
+	font-size: x-small;
+}
+
 /* For small screen size from 375px wide and down */
 
 @media screen and (max-width: 850px) {
@@ -372,5 +377,9 @@ input[type=submit]:hover {
 
 	#caption {
 		font-size: x-small;
+	}
+
+	.sourcelink {
+		font-size: xx-small;
 	}
 }
