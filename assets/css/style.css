@@ -254,7 +254,7 @@ img {
 
 .content-images {
     width: 50%;
-	height:auto;
+	height: auto;
     display: inline-block;
 	background-color: #FFFFFF;	
 }
@@ -279,7 +279,7 @@ footer {
 .social-media {
 	color: #FFFFFF;
 	font-size: larger;
-	
+	margin-left: 10px;
 }
 
 span {
@@ -380,6 +380,10 @@ input[type=submit]:hover {
 	}
 
 	.sourcelink {
+		font-size: xx-small;
+	}
+
+	.social-media {
 		font-size: xx-small;
 	}
 }
