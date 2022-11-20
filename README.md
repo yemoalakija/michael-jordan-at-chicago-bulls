@@ -1,4 +1,14 @@
 
+# Michael Jordan at The Chicago Bulls. 
+
+This website named "Michael Jordan at The Chicago Bulls" aims profile The legandary sporting personality named Michael Jordan and also showcase some outstanding achievements and success stories while he played for the Chicago Bulls Basketball Team. 
+
+Here is a link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
+
+<img src="assets/images/Screenshot - Media-sizes.png"
+
+
+
 
 CONTENT
 
