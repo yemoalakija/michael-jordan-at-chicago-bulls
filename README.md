@@ -6,6 +6,19 @@ This website profiles the legendary NBA Basketball athlete, Michael Jordan and h
 
 Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
 
+![mediascreensizes](assets/images/Screenshot%20-%20Media-sizes.png)
+
+## Features
+
+The website is very user friendly and responsive of effective navigation purposes. These include three (3) navigation bar links at the top right corner of each page namely:
+
+1. Home
+2. Legacy
+3. Contact-Us
+
+These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.
+Each navigation button is also highlighted in red whenever the user in on a current page which facilitates user experience.  
+
 List of Michael Jordan's NBA Final wins
 https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw
 
