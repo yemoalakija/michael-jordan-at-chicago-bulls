@@ -2,6 +2,8 @@
 
 # Michael Jordan at The Chicago Bulls 
 
+## About this website 
+
 This website profiles the legendary NBA Basketball athlete, Michael Jordan and highlights his milestone achievements while playing for The Chicago Bulls Basketball Team. 
 
 Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
@@ -12,12 +14,33 @@ Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://y
 
 The website is very user friendly and responsive of effective navigation purposes. These include three (3) navigation bar links at the top right corner of each page namely:
 
-1. Home
-2. Legacy
-3. Contact-Us
+### 1. Home
+### 2. Legacy
+### 3. Contact-Us
 
 These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.
 Each navigation button is also highlighted in red whenever the user in on a current page which facilitates user experience.  
+
+### 1. Home
+
+This page details Michael Jordan's biography in brief bullet points to cature the attention of the reader at a glance. It also mentions his background in his basketball career. 
+There is also an overlay effect on his name "Michael Jordan" in the header section. 
+
+![home](assets/images/Screenshot%20-%20Home.png)
+
+### 2. Legacy
+
+This page is the main centre-focus of the website; i.e it illustrates his awards and achievements in all the years he played for The Chicago Bulls basketball team. 
+
+![home](assets/images/Screenshot%20-%20Legacy.png)
+
+### 3. Contact-Us
+
+This page is for users to contact-us for any enquiries. There is a contact form to be filled with personal information, followed by a red "submit" buttton. 
+
+![home](assets/images/Screenshot%20-%20Contact-Submit.png)
+
+ALL 3 naviagtion pages have a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
 
 List of Michael Jordan's NBA Final wins
 https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw
