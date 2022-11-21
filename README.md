@@ -6,7 +6,7 @@ This website profiles the legendary NBA Basketball athlete, Michael Jordan and h
 
 Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
 
-![mediascreensizes](assets/images/MJ%20smiling.jpg)
+![mediascreensizes](assets/images/Media-sizes.jpg)
 
 ## Features
 
