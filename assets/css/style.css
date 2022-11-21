@@ -279,7 +279,7 @@ footer {
 .social-media {
 	color: #FFFFFF;
 	font-size: larger;
-	
+	margin-left: 15px;
 }
 
 span {
@@ -381,5 +381,9 @@ input[type=submit]:hover {
 
 	.sourcelink {
 		font-size: xx-small;
+	}
+
+	.social-media {
+		font-size: xx-small;	
 	}
 }
