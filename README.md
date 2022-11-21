@@ -1,6 +1,10 @@
 
 
-CONTENT
+# Michael Jordan at The Chicago Bulls 
+
+This website profiles the legendary NBA Basketball athlete, Michael Jordan and highlights his milestone achievements while playing for The Chicago Bulls Basketball Team. 
+
+Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
 
 List of Michael Jordan's NBA Final wins
 https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw
