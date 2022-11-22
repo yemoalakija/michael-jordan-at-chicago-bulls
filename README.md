@@ -54,7 +54,11 @@ As shown in the picture below, this website passes all criteria including Perfor
 
 ### Validator Testing 
 
-There is 1 pattern of unfixed bugs in <img scr> of home page as seen here: [Unfixed Bug](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F)
+. HTML
+There was 1 pattern of error found in <img scr> of home page as seen here: [Unfixed Bug](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F)
+
+. CSS (Jigsaw validator)
+There were no errors found as seen here: [Jigsaw-Validator](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 
