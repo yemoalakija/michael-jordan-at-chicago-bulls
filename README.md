@@ -54,15 +54,43 @@ As shown in the picture below, this website passes all criteria including Perfor
 
 ### Validator Testing 
 
-. HTML
-There was 1 pattern of error found in <img scr> of home page as seen here: [Unfixed Bug](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F)
+- HTML
+There was 1 pattern of error found in <img scr> of home page as seen here: [Validator W3](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F)
 
-. CSS (Jigsaw validator)
-There were no errors found as seen here: [Jigsaw-Validator](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- CSS (Jigsaw validator)
+There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Unfixed Bugs
+
+There was 1 pattern of error found in <img scr> of home page on lines 68, 69 and 70. The error as stated on Validator W3 checker states as follows:
+"Error: Bad value assets/images/MJ smiling.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.
+From line 68, column 4; to line 68, column 60"
+
+All attempts have been made to fixed this bug to no avail. There are no spaces contrary to what the system checker highlights above. 
+
+## Deployment 
+
+The website was deployed to GitHub pages. The steps to deploy are as follows:
+
+![Deployment](assets/images/Screenshot%20-%20Deployment.png)
+
+- Enter the GitHub repository and navigate to the Settings tab
+- In the source section, select the Master Branch
+
+Here is the live link: - [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
+
+## Credit 
+
+In general, inspiration for this website was taken from The Love Running and Coders Coffeehouse training materials of the Code Institute course. 
+
+### Content 
+
+### Media 
 
 
 
 List of Michael Jordan's NBA Final wins
+
 https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw
 
 https://www.britannica.com/biography/Michael-Jordan
