@@ -8,7 +8,9 @@ This website profiles the legendary NBA Basketball athlete, Michael Jordan and h
 
 Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
 
+
 ![mediascreensizes](assets/images/Screenshot%20-%20Media-sizes.png)
+
 
 ## Features
 
@@ -26,19 +28,25 @@ Each navigation button is also highlighted in red whenever the user in on a curr
 This page details Michael Jordan's biography in brief bullet points to cature the attention of the reader at a glance. It also mentions his background in his basketball career. 
 There is also an overlay effect on his name "Michael Jordan" in the header section. 
 
+
 ![home](assets/images/Screenshot%20-%20Home.png)
+
 
 ### 2. Legacy
 
 This page is the main centre-focus of the website; i.e it illustrates his awards and achievements in all the years he played for The Chicago Bulls basketball team. 
 
+
 ![legacy](assets/images/Screenshot%20-%20Legacy.png)
+
 
 ### 3. Contact-Us
 
 This page is for users to contact-us for any enquiries. There is a contact form to be filled with personal information, followed by a red "submit" buttton. 
 
+
 ![contact-us](assets/images/Screenshot%20-%20Contact-Submit.png)
+
 
 ALL 3 naviagtion pages have a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
 
@@ -48,9 +56,11 @@ This website was tested using Lighthouse Testing and Validator Testing.
 
 ### Lighthouse Testing
 
-As shown in the picture below, this website passes all criteria including Performance, Accessibility, Best Practices and SEO.  
+As shown in the picture below, this website passes all criteria including Performance, Accessibility, Best Practices and SEO. 
+
 
 ![Lighthouse Test](assets/images/Screenshot%20-%20Lighthouse%20test.png)
+
 
 ### Validator Testing 
 
@@ -72,7 +82,9 @@ All attempts have been made to fixed this bug to no avail. There are no spaces c
 
 The website was deployed to GitHub pages. The steps to deploy are as follows:
 
+
 ![Deployment](assets/images/Screenshot%20-%20Deployment.png)
+
 
 - Enter the GitHub repository and navigate to the Settings tab
 - In the source section, select the Master Branch
