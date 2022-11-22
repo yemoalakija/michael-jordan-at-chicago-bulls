@@ -224,6 +224,10 @@ strong {
 	text-align: justify;
 }
 
+.tx-lowercase1 {
+	line-height: 2;
+}
+
 li {
     list-style-type: none;
 }
