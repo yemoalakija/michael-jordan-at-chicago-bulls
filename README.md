@@ -54,6 +54,8 @@ As shown in the picture below, this website passes all criteria including Perfor
 
 ### Validator Testing 
 
+There is 1 pattern of unfixed bugs in <img scr> of home page as seen here: [Unfixed Bug](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F)
+
 
 
 List of Michael Jordan's NBA Final wins
