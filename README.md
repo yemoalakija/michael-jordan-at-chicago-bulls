@@ -21,7 +21,7 @@ The website is very user friendly and responsive of effective navigation purpose
 These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.
 Each navigation button is also highlighted in red whenever the user in on a current page which facilitates user experience.  
 
-###### 1. Home
+### 1. Home
 
 This page details Michael Jordan's biography in brief bullet points to cature the attention of the reader at a glance. It also mentions his background in his basketball career. 
 There is also an overlay effect on his name "Michael Jordan" in the header section. 
@@ -32,15 +32,29 @@ There is also an overlay effect on his name "Michael Jordan" in the header secti
 
 This page is the main centre-focus of the website; i.e it illustrates his awards and achievements in all the years he played for The Chicago Bulls basketball team. 
 
-![home](assets/images/Screenshot%20-%20Legacy.png)
+![legacy](assets/images/Screenshot%20-%20Legacy.png)
 
 ### 3. Contact-Us
 
 This page is for users to contact-us for any enquiries. There is a contact form to be filled with personal information, followed by a red "submit" buttton. 
 
-![home](assets/images/Screenshot%20-%20Contact-Submit.png)
+![contact-us](assets/images/Screenshot%20-%20Contact-Submit.png)
 
 ALL 3 naviagtion pages have a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
+
+## Testing 
+
+This website was tested using Lighthouse Testing and Validator Testing. 
+
+### Lighthouse Testing
+
+As shown in the picture below, this website passes all criteria including Performance, Accessibility, Best Practices and SEO.  
+
+![Lighthouse Test](assets/images/Screenshot%20-%20Lighthouse%20test.png)
+
+### Validator Testing 
+
+
 
 List of Michael Jordan's NBA Final wins
 https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw
