@@ -1,6 +1,6 @@
 
 
-**# Michael Jordan at The Chicago Bulls**
+# <strong>Michael Jordan at The Chicago Bulls</strong>
 
 ## **About this website**
 
