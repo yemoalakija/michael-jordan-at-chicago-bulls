@@ -338,6 +338,10 @@ input[type=submit]:hover {
 	background-color: rgb(232, 18, 18);
   }
 
+input:required {
+	background-color: yellow;
+}
+
 .sourcelink {
 	margin-left: 20px;
 	font-size: x-small;

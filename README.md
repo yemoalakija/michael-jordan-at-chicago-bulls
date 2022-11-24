@@ -72,7 +72,7 @@ There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-v
 
 ### Unfixed Bugs
 
-There was 1 pattern of error found in <img scr> of home page on lines 68, 69 and 70. The error as stated on Validator W3 checker states as follows:
+There was 1 pattern of errors found in <img scr> of home page on lines 68, 69 and 70. The 3 errors as stated on Validator W3 checker states as follows:
 "Error: Bad value assets/images/MJ smiling.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.
 From line 68, column 4; to line 68, column 60"
 
@@ -93,7 +93,7 @@ Here is the live link: - [Michael Jordan at The Chicago Bulls](https://yemoalaki
 
 ## CREDIT
 
-In general, inspiration for this website was taken from The Love Running website of the Code Institute course ![Love Running](https://yemoalakija.github.io/love-running-/).
+In general, inspiration for this website was taken from The Love Running website of the Code Institute course [Love Running](https://yemoalakija.github.io/love-running-/).
 
 Inspiration for the layout on this website's README file came from [Wawas Wood](https://github.com/EwanColquhoun/wawaswoods) and [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
 
