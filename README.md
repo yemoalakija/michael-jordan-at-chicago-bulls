@@ -1,8 +1,8 @@
 
 
-# <strong>Michael Jordan at The Chicago Bulls</strong>
+# MICHAEL JORDAN AT THE CHICAGO BULLS
 
-## **About this website**
+## ABOUT THIS WEBSITE
 
 This website profiles the legendary NBA Basketball athlete, Michael Jordan and highlights his milestone achievements while playing for The Chicago Bulls Basketball Team. 
 
@@ -12,7 +12,7 @@ Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://y
 ![mediascreensizes](assets/images/Screenshot%20-%20Media-sizes.png)
 
 
-## **Features**
+## FEATURES
 
 The website is very user friendly and responsive of effective navigation purposes. These include three (3) navigation bar links at the top right corner of each page namely:
 
@@ -50,7 +50,7 @@ This page is for users to contact-us for any enquiries. There is a contact form 
 
 ALL 3 naviagtion pages have a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
 
-## **Testing**
+## TESTING
 
 This website was tested using Lighthouse Testing and Validator Testing. 
 
@@ -78,7 +78,7 @@ From line 68, column 4; to line 68, column 60"
 
 All attempts have been made to fixed this bug to no avail. There are no spaces contrary to what the system checker highlights above. 
 
-## **Deployment**
+## DEPLOYMENT
 
 The website was deployed to GitHub pages. The steps to deploy are as follows:
 
@@ -91,44 +91,58 @@ The website was deployed to GitHub pages. The steps to deploy are as follows:
 
 Here is the live link: - [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
 
-## **Credit**
+## CREDIT
 
-In general, inspiration for this website was taken from The Love Running and Coders Coffeehouse training materials of the Code Institute course. 
+In general, inspiration for this website was taken from The Love Running website of the Code Institute course ![Love Running](https://yemoalakija.github.io/love-running-/).
 
-Specifically, contents and media (including photos and videos) were sourced from various websites as referenced below at the clickable links: 
+Inspiration for the layout on this website's README file came from [Wawas Wood](https://github.com/EwanColquhoun/wawaswoods) and [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
 
-### **Home page**
+Specific contents and media (including photos and videos) were sourced from various websites as referenced below at the clickable links: 
 
-#### Content
-
-- ![Britannica](https://www.britannica.com/biography/Michael-Jordan)
-- ![Wikipedia](https://en.wikipedia.org/wiki/Michael_Jordan)
-- ![Google Search About Michael Jordan](https://www.google.com/search?q=about+michael+jordan+&biw=1280&bih=512&ei=folmY8LkNZCEhbIPwfSVwAE&ved=0ahUKEwjCm5G8tZf7AhUQQkEAHUF6BRg4HhDh1QMIDw&uact=5&oq=about+michael+jordan+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BQghEKABOggIIRAWEB4QHToFCAAQhgM6CAgAEBYQHhAKSgQIQRgASgQIRhgAUOkEWJMXYM4baAFwAXgAgAGQAYgB_QmSAQM4LjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
-
-#### Media 
-
-- ![Sunday Observer](https://www.sundayobserver.lk/2022/10/16/sports/michael-jordan-irresistible-irreplaceable-magician-all-time)
-- ![Diffen](https://www.diffen.com/difference/Kobe_Bryant_vs_Michael_Jordan)
-- ![Youtube -Footer](https://www.youtube.com/watch?v=cuLprHh_BRg)
-
-
-### **Legacy page**
+### Home page
 
 #### Content
 
-- ![Sporting News](https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw)
-- ![FadeAway World](https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael-jordan-and-chicago-bulls-won-6-championships-in-two-three-peats)
+- [Britannica](https://www.britannica.com/biography/Michael-Jordan)
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Michael_Jordan)
+
+- [Google Search About Michael Jordan](https://www.google.com/search?q=about+michael+jordan+&biw=1280&bih=512&ei=folmY8LkNZCEhbIPwfSVwAE&ved=0ahUKEwjCm5G8tZf7AhUQQkEAHUF6BRg4HhDh1QMIDw&uact=5&oq=about+michael+jordan+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BQghEKABOggIIRAWEB4QHToFCAAQhgM6CAgAEBYQHhAKSgQIQRgASgQIRhgAUOkEWJMXYM4baAFwAXgAgAGQAYgB_QmSAQM4LjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
 
 #### Media 
 
-- ![Denver Post](https://www.denverpost.com/2020/04/16/micheal-jordan-sixth-nba-title-bulls/)
-- ![Pinterest](https://www.pinterest.com/pin/594404850809393386/)
-- ![Youtube -Footer](https://www.youtube.com/watch?v=cuLprHh_BRg)
+- [Sunday Observer](https://www.sundayobserver.lk/2022/10/16/sports/michael-jordan-irresistible-irreplaceable-magician-all-time)
+
+- [Diffen](https://www.diffen.com/difference/Kobe_Bryant_vs_Michael_Jordan)
 
 
-### **Contact-Us page**
+### Legacy page
+
+#### Content
+
+- [Sporting News](https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw)
+
+- [FadeAway World](https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael-jordan-and-chicago-bulls-won-6-championships-in-two-three-peats)
 
 #### Media 
 
-- ![Andscape](https://andscape.com/features/during-the-last-dance-ill-remember-how-michael-jordan-brought-me-closer-to-the-most-important-man-in-my-life/)
-- ![Youtube -Footer](https://www.youtube.com/watch?v=cuLprHh_BRg)
+- [Denver Post](https://www.denverpost.com/2020/04/16/micheal-jordan-sixth-nba-title-bulls/)
+
+- [Pinterest](https://www.pinterest.com/pin/594404850809393386/)
+
+
+### Contact-Us page
+
+#### Media 
+
+- [Andscape](https://andscape.com/features/during-the-last-dance-ill-remember-how-michael-jordan-brought-me-closer-to-the-most-important-man-in-my-life/)
+
+
+### Footer 
+
+The footer showcases on all 3 pages. This clickable opens a new page to a Youtube video about The Best of Michael Jordan's playoff games. [Youtube -Footer](https://www.youtube.com/watch?v=cuLprHh_BRg)
+
+
+## ACKNOWLEDGEMENT 
+
+This website was completed in accordance with the criteria for Portfolio 1 Project of The Full Stack Software Developer Diploma at the Code Institute. My special gratitude goes to everyone that has made this project successful including my mentor Precious Ijege, the Slack community (particularly Shaun Buck and Kera Cudmore) and the entire Code Institute for their support and assistance. 
