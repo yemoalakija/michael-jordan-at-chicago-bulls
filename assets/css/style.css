@@ -347,6 +347,30 @@ input:required {
 	font-size: x-small;
 }
 
+/* Thank you page */
+
+#homethankyou {
+	background-image: url(../images/backofjersey.webp);
+	background-repeat: no-repeat no-repeat;
+	background-size: 100%;
+	background-position: 0rem;
+	height: 100%;
+	width: 100%;	
+}
+
+#clickreturn {
+	margin-right: 45%;
+	text-align: left;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	color: aqua;
+	font-style: italic;
+	padding-top: 40px;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: large;
+	font-weight: bolder;
+}
+
 /* For small screen size from 375px wide and down */
 
 @media screen and (max-width: 850px) {
