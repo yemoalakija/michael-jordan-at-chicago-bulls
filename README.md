@@ -1,5 +1,65 @@
 
 
+# TABLE OF CONTENT
+
+# MICHAEL JORDAN AT THE CHICAGO BULLS
+
+## ABOUT THIS WEBSITE
+
+## FEATURES
+
+#### 1. Home
+
+#### 2. Legacy
+
+#### 3. Contact-Us
+
+### Future Features
+
+## TESTING
+
+### Lighthouse Testing
+
+### Validator Testing 
+
+### Responsiveness Test
+
+### Browser Compatibility
+
+### Fixed Bugs
+
+## TECHNOLOGIES USED
+
+## DEPLOYMENT
+
+### How to create a local clone of this project
+
+## CREDIT
+
+### Home page
+
+#### Content
+
+#### Media 
+
+### Legacy page
+
+#### Content
+
+#### Media 
+
+### Contact-Us page
+
+#### Media 
+
+### Footer 
+
+## ACKNOWLEDGEMENT 
+
+
+
+
+
 # MICHAEL JORDAN AT THE CHICAGO BULLS
 
 ## ABOUT THIS WEBSITE
@@ -71,8 +131,12 @@ As shown in the picture below, this website passes all criteria including Perfor
 - HTML
 There were no errors found as seen here: [Validator W3](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F)
 
+![Validator W3](assets/images/Screenshot%20-%20Validate%20HTML.png)
+
 - CSS (Jigsaw validator)
 There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![Jigsaw W3](assets/images/Screenshot%20-%20Jigsaw%20CSS.png)
 
 ### Responsiveness Test
 
