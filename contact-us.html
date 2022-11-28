@@ -14,7 +14,6 @@
 
 <body>
 	<header class="tx-middle page-header" id="homecontact">
-
 		<nav>
 			<ul class="menu">
 				<li>
@@ -26,52 +25,44 @@
 				<li>
 					<a href="index.html" class="active"> Home</a>
 				</li>
-	
 			</ul>
 		</nav>
 		<div class="vertical-middle3">
 			<h1 style="font-weight:bolder; color:yellow;"><em>CONTACT-US...</em></h1>		
 		</div>
 	</header>
-<hr>
-<hr>
-  <h3>Contact Form</h3>
+	<hr>
+	<hr>
+  	<h3>Contact Form</h3>
+	<div class="container">
+  	<form action="/action_page.php">
+    	<label for="fname">First Name</label>
+    	<input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+    	<label for="lname">Last Name</label>
+    	<input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+    	<label for="email">E-mail</label>
+    	<input type="text" id="email" name="email" placeholder="Your email address.." required>
+        <label for="continent">Continent</label>
+    	<select id="continent" name="continent">
+      		<option value="Africa">Africa</option>
+     		<option value="Antarctica">Antarctica</option>
+	  		<option value="Asia">Asia</option>
+     		<option value="Australia">Australia</option>
+	  		<option value="Europe">Europe</option>
+	  		<option value="North-America">North-America</option>
+	  		<option value="South-America">South-America</option>
+    	</select> 
+    	<label for="subject">Subject</label>
+    	<textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    	<input type="submit" formaction="./thankyou.html" value="Submit">
+  	</form>
+		</div>
+			<footer>
+				<p class="social-media"><strong> CLICK HERE to watch The Best of Michael Jordan’s Playoff Games</strong>: 
+				<a href= "https://www.youtube.com/watch?v=cuLprHh_BRg" target="_blank" rel="noopener" aria-label="(opens in a new tab)"><span>YOUTUBE</span></a></p>
+			</footer>
 
-<div class="container">
-  <form action="/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
-
-    <label for="email">E-mail</label>
-    <input type="text" id="email" name="email" placeholder="Your email address.." required>
-    
-    <label for="continent">Continent</label>
-    <select id="continent" name="continent">
-      <option value="Africa">Africa</option>
-      <option value="Antarctica">Antarctica</option>
-	  <option value="Asia">Asia</option>
-      <option value="Australia">Australia</option>
-	  <option value="Europe">Europe</option>
-	  <option value="North-America">North-America</option>
-	  <option value="South-America">South-America</option>
-    </select> 
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" formaction="./thankyou.html" value="Submit">
-  </form>
-</div>
-
-		<footer>
-			<p class="social-media"><strong> CLICK HERE to watch The Best of Michael Jordan’s Playoff Games</strong>: 
-			<a href= "https://www.youtube.com/watch?v=cuLprHh_BRg" target="_blank" rel="noopener" aria-label="(opens in a new tab)"><span>YOUTUBE</span></a></p>
-		</footer>
-
-</body>
+	</body>
 </html>
 		
 
