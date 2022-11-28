@@ -76,13 +76,8 @@ There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-v
 
 ### Responsiveness Test
 
-The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
-
-Dsk 19-24"	Galaxy S5-S7	iPhone 3-7	Sony Z2-Z3	iPad	Display
-Render	pass	pass	pass	pass	pass	pass	pass
-Images	pass	pass	pass	pass	pass	pass	pass
-Links	pass	pass	pass	pass	pass	pass	pass
-
+The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/). 
+The following devices were all tested and passed: Desktop 15-24", Galaxy S5-S7, Galaxy A, iPhone 3-7, Sony Z2-Z3, iPad and iPad Mini
 
 ### Browser Compatibility
 
@@ -96,6 +91,12 @@ From line 68, column 4; to line 68, column 60"
 
 This was successfully fixed by renaming all affected image file names and editing without spaces. 
 
+## TECHNOLOGIES USED
+
+- HTML5 - provides the structure and content for the website.
+- CSS - provides the styling for the website.
+- Gitpod - used for deployment the website.
+- Github - used for hosting and editing the website.
 
 ## DEPLOYMENT
 
@@ -109,6 +110,16 @@ The website was deployed to GitHub pages. The steps to deploy are as follows:
 - In the source section, select the Master Branch
 
 Here is the live link: - [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
+
+### How to create a local clone of this project
+
+Acces Github and follow below instructions:
+
+- STEP 1 - Click on the code tab, under repository name. 
+- STEP 2 - Click on the clipboard icon to copy URL. 
+- STEP 3 - Open Git Bash in your chosen IDE. 
+- STEP 4 - Change clone directory location.
+- STEP 5 - Type git clone, and then paste the URL copied from GitHub.
 
 ## CREDIT
 
