@@ -50,6 +50,10 @@ This page is for users to contact-us for any enquiries. There is a contact form 
 
 ALL 3 naviagtion pages have a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
 
+### Future Features
+
+Additional features in the near future shall include information on Michael Jordan's charity programmes and merchandizing. 
+
 ## TESTING
 
 This website was tested using Lighthouse Testing and Validator Testing. 
@@ -69,6 +73,20 @@ There were no errors found as seen here: [Validator W3](https://validator.w3.org
 
 - CSS (Jigsaw validator)
 There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Responsiveness Test
+
+The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
+
+Dsk 19-24"	Galaxy S5-S7	iPhone 3-7	Sony Z2-Z3	iPad	Display
+Render	pass	pass	pass	pass	pass	pass	pass
+Images	pass	pass	pass	pass	pass	pass	pass
+Links	pass	pass	pass	pass	pass	pass	pass
+
+
+### Browser Compatibility
+
+The Michael Jordan at The Chicago Bulls website was succcesfully tested on the following browsers and there no errors found. Google Chrome, Microsoft Edge and Mozilla Firefox. Responsiveness were consistent on all above mentioned browsers and devices.
 
 ### Fixed Bugs
 
