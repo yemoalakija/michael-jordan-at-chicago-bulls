@@ -1,69 +1,47 @@
 
 
-# TABLE OF CONTENT
+TABLE OF CONTENT
 
-# MICHAEL JORDAN AT THE CHICAGO BULLS
+1. <a href ="#michael-jordan-at-the-chicago-bulls">MICHAEL JORDAN AT THE CHICAGO BULLS</a>
 
-## ABOUT THIS WEBSITE
+2. <a href= "#about-this-website">ABOUT THIS WEBSITE</a>
 
-## FEATURES
+3. <a href= "#features">FEATURES</a>
 
-#### 1. Home
+    - <a href= "#home">Home</a>
+    - <a href= "#legacy">Legacy</a>
+    - <a href= "#contact-us">Contact Us</a>
 
-#### 2. Legacy
 
-#### 3. Contact-Us
+    <a href= "#future-features">Future Features</a>
 
-### Future Features
+4. <a href ="#testing">TESTING</a>
 
-## TESTING
+    - <a href ="#lighthouse-testing">Lighthouse Testing</a>
 
-### Lighthouse Testing
+    - <a href ="#validator-testing">Validator Testing</a> 
 
-### Validator Testing 
+    - <a href ="#responsiveness-test">Responsiveness Test</a>
 
-### Responsiveness Test
+    - <a href ="#browser-compatibility">Browser Compatibility</a>
 
-### Browser Compatibility
+    - <a href ="#fixed-bugs">Fixed Bugs</a>
 
-### Fixed Bugs
+5. <a href= "#technologies-used">TECHNOLOGIES USED></a>
 
-## TECHNOLOGIES USED
+6. <a href= "#deployment">DEPLOYMENT</a>
 
-## DEPLOYMENT
+    - <a href= "#how-to-create-a-local-clone-of-this-project">How to create a local clone of this project</a>
 
-### How to create a local clone of this project
+7. <a href= "#credit">CREDIT</a>
 
-## CREDIT
+    - <a href= "#content">Content</a>
 
-### Home page
+    - <a href= "#media">Media</a>
 
-#### Content
-
-#### Media 
-
-### Legacy page
-
-#### Content
-
-#### Media 
-
-### Contact-Us page
-
-#### Media 
-
-### Footer 
-
-## ACKNOWLEDGEMENT 
+8. <a href= "#acknowledgement">ACKNOWLEDGEMENT</a> 
 
 ---
-
----
-
----
-
----
-
 
 
 # MICHAEL JORDAN AT THE CHICAGO BULLS
@@ -193,54 +171,36 @@ Acces Github and follow below instructions:
 
 ## CREDIT
 
-In general, inspiration for this website was taken from The Love Running website of the Code Institute course [Love Running](https://yemoalakija.github.io/love-running-/).
+### Content 
 
-Inspiration for the layout on this website's README file came from [Wawas Wood](https://github.com/EwanColquhoun/wawaswoods) and [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
-
-Specific contents and media (including photos and videos) were sourced from various websites as referenced below at the clickable links: 
-
-### Home page
-
-#### Content
-
-- [Britannica](https://www.britannica.com/biography/Michael-Jordan)
+ - [Britannica](https://www.britannica.com/biography/Michael-Jordan)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Michael_Jordan)
 
 - [Google Search About Michael Jordan](https://www.google.com/search?q=about+michael+jordan+&biw=1280&bih=512&ei=folmY8LkNZCEhbIPwfSVwAE&ved=0ahUKEwjCm5G8tZf7AhUQQkEAHUF6BRg4HhDh1QMIDw&uact=5&oq=about+michael+jordan+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BQghEKABOggIIRAWEB4QHToFCAAQhgM6CAgAEBYQHhAKSgQIQRgASgQIRhgAUOkEWJMXYM4baAFwAXgAgAGQAYgB_QmSAQM4LjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
 
-#### Media 
+- [Sporting News](https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw)
+
+- [FadeAway World](https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael-jordan-and-chicago-bulls-won-6-championships-in-two-three-peats)
+
+- In general, inspiration for this website was taken from The Love Running website of the Code Institute course [Love Running](https://yemoalakija.github.io/love-running-/).
+
+- Inspiration for the layout on this website's README file came from [Wawas Wood](https://github.com/EwanColquhoun/wawaswoods) and [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
+
+### Media 
+
+- [Denver Post](https://www.denverpost.com/2020/04/16/micheal-jordan-sixth-nba-title-bulls/)
+
+- [Pinterest](https://www.pinterest.com/pin/594404850809393386/)
+
+- [Andscape](https://andscape.com/features/during-the-last-dance-ill-remember-how-michael-jordan-brought-me-closer-to-the-most-important-man-in-my-life/)
 
 - [Sunday Observer](https://www.sundayobserver.lk/2022/10/16/sports/michael-jordan-irresistible-irreplaceable-magician-all-time)
 
 - [Diffen](https://www.diffen.com/difference/Kobe_Bryant_vs_Michael_Jordan)
 
 
-### Legacy page
-
-#### Content
-
-- [Sporting News](https://www.sportingnews.com/us/nba/news/michael-jordan-championships-breakdown/1vqo0iif16sq51lawsaxtitciw)
-
-- [FadeAway World](https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael-jordan-and-chicago-bulls-won-6-championships-in-two-three-peats)
-
-#### Media 
-
-- [Denver Post](https://www.denverpost.com/2020/04/16/micheal-jordan-sixth-nba-title-bulls/)
-
-- [Pinterest](https://www.pinterest.com/pin/594404850809393386/)
-
-
-### Contact-Us page
-
-#### Media 
-
-- [Andscape](https://andscape.com/features/during-the-last-dance-ill-remember-how-michael-jordan-brought-me-closer-to-the-most-important-man-in-my-life/)
-
-
-### Footer 
-
-The footer showcases on all 3 pages. This clickable opens a new page to a Youtube video about The Best of Michael Jordan's playoff games. [Youtube -Footer](https://www.youtube.com/watch?v=cuLprHh_BRg)
+- [The Best of Michael Jordan's playoff game](https://www.youtube.com/watch?v=cuLprHh_BRg)
 
 
 ## ACKNOWLEDGEMENT 
