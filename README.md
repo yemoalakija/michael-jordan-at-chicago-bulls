@@ -17,17 +17,12 @@
     - Typography
 
     - Color Scheme
- 
-
-
-
 
 2. <a href= "#features">FEATURES</a>
 
     - <a href= "#home">Home</a>
     - <a href= "#legacy">Legacy</a>
     - <a href= "#contact-us">Contact Us</a>
-
 
     <a href= "#future-features">Future Features</a>
 
@@ -106,11 +101,7 @@ The Color Scheme palette was extracted from:
 
 ## FEATURES
 
-The website is very user friendly and responsive of effective navigation purposes. These include three (3) navigation bar links at the top right corner of each page namely:
-
-### Home
-### Legacy
-### Contact-Us
+The website is very user friendly and responsive of effective navigation purposes. These include three (3) navigation bar links at the top right corner# namely: Home, Legacy and Contact-Us
 
 These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.
 Each navigation button is also highlighted in red whenever the user in on a current page which facilitates user experience.  
