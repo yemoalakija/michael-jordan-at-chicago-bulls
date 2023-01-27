@@ -1,12 +1,28 @@
 
 
-TABLE OF CONTENT
+# TABLE OF CONTENT
 
-1. <a href ="#michael-jordan-at-the-chicago-bulls">MICHAEL JORDAN AT THE CHICAGO BULLS</a>
+1. <a href= "#about-this-website">ABOUT THIS WEBSITE</a>
 
-2. <a href= "#about-this-website">ABOUT THIS WEBSITE</a>
+1. <a href= "#user-experience-(ux)">USER EXPERIENCE (UX)</a>
 
-3. <a href= "#features">FEATURES</a>
+    - <a href= "#user-stories">User Stories</a>
+
+    - <a href= "#wireframes">Wireframes</a>
+
+    - <a href= "#site-structure">Site Strcuture</a>
+
+    - <a href= "#design-choices">Design Choices</a>
+
+    - Typography
+
+    - Color Scheme
+ 
+
+
+
+
+2. <a href= "#features">FEATURES</a>
 
     - <a href= "#home">Home</a>
     - <a href= "#legacy">Legacy</a>
@@ -15,7 +31,7 @@ TABLE OF CONTENT
 
     <a href= "#future-features">Future Features</a>
 
-4. <a href ="#testing">TESTING</a>
+3. <a href ="#testing">TESTING</a>
 
     - <a href ="#lighthouse-testing">Lighthouse Testing</a>
 
@@ -27,19 +43,19 @@ TABLE OF CONTENT
 
     - <a href ="#fixed-bugs">Fixed Bugs</a>
 
-5. <a href= "#technologies-used">TECHNOLOGIES USED></a>
+4. <a href= "#technologies-used">TECHNOLOGIES USED></a>
 
-6. <a href= "#deployment">DEPLOYMENT</a>
+5. <a href= "#deployment">DEPLOYMENT</a>
 
     - <a href= "#how-to-create-a-local-clone-of-this-project">How to create a local clone of this project</a>
 
-7. <a href= "#credit">CREDIT</a>
+6. <a href= "#credit">CREDIT</a>
 
     - <a href= "#content">Content</a>
 
     - <a href= "#media">Media</a>
 
-8. <a href= "#acknowledgement">ACKNOWLEDGEMENT</a> 
+7. <a href= "#acknowledgement">ACKNOWLEDGEMENT</a> 
 
 ---
 
@@ -55,14 +71,46 @@ Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://y
 
 ![mediascreensizes](assets/images/Screenshot%20-%20Media-sizes.png)
 
+## USER EXPERIENCE (UX)
+
+### User Stories 
+
+- As a user I want to be able to navigate the site smoothly.
+- As a user I want to get information about Michael Jordan. 
+- As a user I want to watch social media videos on NBA Basketball. 
+
+### Wireframes
+
+The wireframes for this website were produced in [Balsamiq](https://balsamiq.com/). 
+
+![Wireframe](assets/images/WF1.png)
+![Wireframe](assets/images/WF2.png)
+![Wireframe](assets/images/WF3.png)
+![Wireframe](assets/images/WF4.png)
+![Wireframe](assets/images/WF5.png)
+
+### Site Structure
+
+This website has four pages. The home page is the default page, legacy, contact-us and Thank-you pages are all accessible from the navigation menu. There is a "Click here to return" button on the thank-you page. 
+
+### Design Choices
+
+#### Typography
+
+The fonts chosen were Arial.  They fall back to Helvetica and sans-serif. 
+
+#### Color Scheme
+
+The Color Scheme palette was extracted from:
+![ColorScheme](assets/images/ColorScheme.png)
 
 ## FEATURES
 
 The website is very user friendly and responsive of effective navigation purposes. These include three (3) navigation bar links at the top right corner of each page namely:
 
-1. Home
-2. Legacy
-3. Contact-Us
+### Home
+### Legacy
+### Contact-Us
 
 These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.
 Each navigation button is also highlighted in red whenever the user in on a current page which facilitates user experience.  
