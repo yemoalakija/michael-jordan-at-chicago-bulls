@@ -4,7 +4,7 @@
 
 1. <a href= "#about-this-website">ABOUT THIS WEBSITE</a>
 
-1. <a href= "#user-experience-(ux)">USER EXPERIENCE (UX)</a>
+1. <a href= "#user-experience-ux">USER EXPERIENCE (UX)</a>
 
     - <a href= "#user-stories">User Stories</a>
 
@@ -14,9 +14,9 @@
 
     - <a href= "#design-choices">Design Choices</a>
 
-    - Typography
+        - Typography
 
-    - Color Scheme
+        - Color Scheme
 
 2. <a href= "#features">FEATURES</a>
 
@@ -106,7 +106,7 @@ The website is very user friendly and responsive of effective navigation purpose
 These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.
 Each navigation button is also highlighted in red whenever the user in on a current page which facilitates user experience.  
 
-#### 1. Home
+#### Home
 
 This page details Michael Jordan's biography in brief bullet points to cature the attention of the reader at a glance. It also mentions his background in his basketball career. 
 There is also an overlay effect on his name "Michael Jordan" in the header section. 
@@ -115,7 +115,7 @@ There is also an overlay effect on his name "Michael Jordan" in the header secti
 ![home](assets/images/Screenshot%20-%20Home.png)
 
 
-#### 2. Legacy
+#### Legacy
 
 This page is the main centre-focus of the website; i.e it illustrates his awards and achievements in all the years he played for The Chicago Bulls basketball team. 
 
@@ -123,7 +123,7 @@ This page is the main centre-focus of the website; i.e it illustrates his awards
 ![legacy](assets/images/Screenshot%20-%20Legacy.png)
 
 
-#### 3. Contact-Us
+#### Contact-Us
 
 This page is for users to contact-us for any enquiries. There is a contact form to be filled with personal information, followed by a red "submit" buttton. 
 
