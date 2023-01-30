@@ -96,8 +96,9 @@ The fonts chosen were Arial.  They fall back to Helvetica and sans-serif.
 
 #### Color Scheme
 
-The Color Scheme palette was extracted from:
-![ColorScheme](assets/images/ColorScheme.png)
+The Color Scheme palette was extracted from [Tinyeye](https://labs.tineye.com/)
+
+![ColorScheme](assets/images/ColorScheme.png). 
 
 ## FEATURES
 
