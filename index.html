@@ -208,6 +208,116 @@
 			</div>
 		</section>
 
+		<section class="tours">
+			<div class="row">
+				<div class="col content-col">
+					<h1>Photo Gallery</h1>
+					<div class="line"></div>
+					<p>
+						This is the photo gallery of Michael Jordan...
+					</p>
+					<a href="#contact-us" class="ctn">Contact Us</a>
+				</div>
+				<div class="col image-col">
+					<div class="image-gallery">
+						<img src="/assets/images/tonugeoutdribble.jpg" alt="mjpix" />
+						<img src="/assets/images/Michael-Jordan-receives-the-Maurice-Podoloff-Trophy.jpg " alt="mjpix" />
+						<img src="/assets/images/mjallstar.jpg" alt="mjpix" />
+						<img src="/assets/images/mj456840957-min.jpg" alt="mjpix" />
+					</div>
+				</div>
+			</div>
+		</section>
+		<hr>
+
+		<!-- Contact Us -->
+		<section id="contact-us" class="tours">
+			<div class="row">
+				<div class="col content-col">
+					<h1>Contact Us</h1>
+					<div class="line"></div>
+					<p>
+						Please do contact us from here...
+					</p>
+					<a href="#" class="ctn">Home</a>
+				</div>
+				<div class="col image-col">
+					<form action="/ation_page.php">
+					<div class="info">
+						<label for="fname">First Name</label>
+						<input
+							type="text"
+							name="first name"
+							placeholder="Enter your first name"
+							required
+						/>
+						<label for="lname">Last Name</label>
+						<input
+							type="text"
+							name="last name"
+							placeholder="Enter your last name"
+							required
+						/>
+						<label for="email">E-mail</label>
+						<input
+							type="text"
+							name="first name"
+							placeholder="Enter your email"
+							required
+						/>
+						<label for="continent">Continent</label>
+						<select name="continent" id="continent">
+							<option value="Africa">Africa</option>
+							<option value="Antarctica">Antarctica</option>
+							<option value="Asia">Asia</option>
+							<option value="Australia">Australia</option>
+							<option value="Europe">Europe</option>
+							<option value="North-America">North-America</option>
+							<option value="South-America">South-America</option>
+						</select>
+					</div>
+					<div>
+						<textarea
+							id="subject"
+							name="subject"
+							placeholder="Write something"
+							rows="4"
+						></textarea>
+					</div>
+					<button
+						class="button_fm"
+						formaction="./thankyou.html"
+						value="Submit"
+						type="submit"
+						href="/"
+					>
+						Submit
+					</button>
+				</form>
+				</div>
+			</div>
+		</section>
+
+		<div class="footer">
+			<p>
+               Click here to watch Michael Jordan moments in the history of basketball! <br><br>
+                <a
+							href="https://www.youtube.com/watch?v=cuLprHh_BRg"
+							class="ctn"
+							rel="noopener"
+							target="_blank"
+							>YouTube</a
+						>
+			</p>
+		</div>
+
+		<script>
+			const menuBtn = document.querySelector(".menu-btn");
+			const navlinks = document.querySelector(".nav-links");
+			menuBtn.addEventListener("click", () => {
+				navlinks.classList.toggle("mobile-menu");
+			});
+		</script>
 	</body>
 </html>
 
