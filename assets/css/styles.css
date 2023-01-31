@@ -275,3 +275,70 @@ input::placeholder {
 .title .title-text {
 	display: flex;
 }
+@media (min-width: 568px) {
+	.main-block {
+		flex-direction: row;
+	}
+	.left-part,
+	form {
+		width: 50%;
+	}
+}
+/* Mobile screen */
+@media only screen and (max-width: 850px) {
+	.menu-btn {
+		display: block;
+	}
+	.navbar {
+		padding: 0;
+	}
+	.logo {
+		position: absolute;
+		top: 30px;
+		left: 30px;
+	}
+	.nav-links {
+		flex-direction: column;
+		width: 100%;
+		height: 100vh;
+		justify-content: center;
+		background-color: #357686;
+		margin-top: -900px;
+		transition: all 0.5s ease;
+	}
+
+	.mobile-menu {
+		margin-top: 0px;
+		border-bottom-right-radius: 30%;
+	}
+	.nav-links li {
+		margin: 30px auto;
+	}
+	/* Events */
+	.row {
+		flex-direction: column;
+	}
+	.row .col {
+		margin: 20px auto;
+	}
+	.col img {
+		max-height: 90;
+	}
+	/* Explore */
+	.explore-content {
+		width: 100%;
+	}
+	.tours .col {
+		width: 100%;
+	}
+	.image-gallery {
+		justify-content: center;
+		align-items: center;
+	}
+	.image-gallery img {
+		width: 90%;
+	}
+	.footer {
+		padding: 10px;
+	}
+}
