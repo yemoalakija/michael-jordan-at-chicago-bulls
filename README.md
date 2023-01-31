@@ -78,11 +78,8 @@ Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://y
 
 The wireframes for this website were produced in [Balsamiq](https://balsamiq.com/). 
 
-![Wireframe](assets/images/WF1.png)
-![Wireframe](assets/images/WF2.png)
-![Wireframe](assets/images/WF3.png)
-![Wireframe](assets/images/WF4.png)
-![Wireframe](assets/images/WF5.png)
+![Wireframe](assets/images/indexwire.jpg)
+![Wireframe](assets/images/thankyouwire.jpg)
 
 ### Site Structure
 
