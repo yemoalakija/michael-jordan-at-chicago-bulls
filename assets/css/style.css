@@ -196,3 +196,82 @@ p {
 	background: #357686;
 	text-align: center;
 }
+.footer p {
+	color: whitesmoke;
+	margin: 20px auto;
+}
+
+/* Contact Us styles */
+#contact_us {
+	width: 100vw;
+	height: 100vh;
+	background-image: url("/assets/images/contact\ us.webp");
+	background-position: bottom;
+	background-size: cover;
+	display: flex;
+	float: left;
+	align-items: flex-end;
+	justify-content: center;
+	margin: 0;
+}
+.form_h2 {
+	position: absolute;
+	top: 230px;
+	display: flex;
+	float: left;
+	margin-top: 0px;
+	margin-right: 10%;
+}
+.form_p p {
+	margin: 0 0 5px;
+}
+form {
+	position: relative;
+	padding: 25px;
+	border-radius: 10px;
+	background: whitesmoke;
+	margin-bottom: 15%;
+}
+input,
+textarea {
+	width: calc(100% - 18px);
+	padding: 8px;
+	margin-bottom: 20px;
+	border: 1px solid #a52a2a;
+	outline: none;
+}
+input::placeholder {
+	color: #666;
+}
+.button_fm {
+	display: inline-block;
+	padding: 0.35em 1.2em;
+	border: 0.1em solid #fff;
+	margin: 0 0.3em 0.3em 0;
+	border-radius: 0.3em;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-size: 18px;
+	color: #a52a2a;
+	text-align: center;
+	transition: all 0.2s;
+}
+.button_fm:hover {
+	color: #a52a2a;
+	background-color: #ffffff;
+}
+
+/* thank you styles */
+#thankyou {
+	width: 100vw;
+	height: 100vh;
+	background-image: url("/assets/images/backofjersey.webp");
+	background-position: bottom;
+	background-size: cover;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+}
+.title .title-text {
+	display: flex;
+}
