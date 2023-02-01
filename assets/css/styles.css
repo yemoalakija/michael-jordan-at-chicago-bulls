@@ -342,3 +342,19 @@ input::placeholder {
 		padding: 10px;
 	}
 }
+/* Image Transitions */
+img {
+	transition: transform 0.3s ease;
+}
+img:hover {
+	transform: scale(1.1);
+}
+.ctn:hover {
+	background: #fff;
+	color: #a52a2a;
+	box-shadow: 2px 2px 5px black;
+}
+li:hover {
+	color: #a52a2a;
+	cursor: pointer;
+}
