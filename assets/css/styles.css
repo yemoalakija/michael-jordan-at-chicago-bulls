@@ -50,6 +50,7 @@ header {
 	margin-bottom: 150px;
 	color: whitesmoke;
 	text-align: center;
+	background-color: black;
 }
 .header-content h2 {
 	font-size: 4vmin;
