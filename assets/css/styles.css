@@ -18,6 +18,9 @@ html {
 	overflow-x: hidden;
 	font-family: "Montserrat";
 }
+.logo {
+	background-color: black;
+}
 /* Navbar */
 .navbar {
 	position: absolute;
