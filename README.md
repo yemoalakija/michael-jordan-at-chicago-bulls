@@ -83,7 +83,7 @@ The wireframes for this website were produced in [Balsamiq](https://balsamiq.com
 
 ### Site Structure
 
-This website has four pages. The home page is the default page, legacy, contact-us and Thank-you pages are all accessible from the navigation menu. There is a "Click here to return" button on the thank-you page. 
+This website has four pages. The home page is the default page, legacy, contact-us and Thank-you pages are all accessible from the navigation menu. There is a "Click to return to the homepage" button on the thank-you page. 
 
 ### Design Choices
 

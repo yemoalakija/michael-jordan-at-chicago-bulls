@@ -70,6 +70,15 @@ header {
 	margin: 10px auto;
 	border-radius: 5px;
 }
+div > ul {
+	line-height: 0.8cm;
+}
+#sourcelink {
+	padding: 8px 15px;
+	background: #357686;
+	border-radius: 30px;
+	color: whitesmoke;
+}
 .header-content h1 {
 	font-size: 7vmin;
 	font-weight: 900;
