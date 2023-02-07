@@ -339,7 +339,7 @@ input::placeholder {
 		margin: 20px auto;
 	}
 	.col img {
-		max-height: 90;
+		max-height: 90%;
 	}
 	/* Explore */
 	.explore-content {
