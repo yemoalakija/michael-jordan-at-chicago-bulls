@@ -61,7 +61,7 @@
 
 This website profiles the legendary NBA Basketball athlete, Michael Jordan and highlights his milestone achievements while playing for The Chicago Bulls Basketball Team. 
 
-Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
+Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/michael-jordan-at-chicago-bulls/)
 
 
 ![mediascreensizes](assets/images/Screenshot%20-%20Media-sizes.png)
@@ -101,8 +101,7 @@ The Color Scheme palette was extracted from [Coolors.co](https://coolors.co/imag
 
 The website is very user friendly and responsive of effective navigation purposes. These include three (3) navigation bar links at the top right corner# namely: Home, Legacy and Contact-Us
 
-These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.
-Each navigation button is also highlighted in red whenever the user in on a current page which facilitates user experience.  
+These features enable the user to comfortably navigate from page to page using all devices including mobile, ipads, laptops and desktops computers. The above mentioned navigation buttons are also have hover effects whenever the cursor is on either.  
 
 #### Home
 
@@ -155,9 +154,9 @@ There were no errors found as seen here: [Validator W3](https://validator.w3.org
 ![Validator W3](assets/images/Screenshot%20-%20Validate%20HTML.png)
 
 - CSS (Jigsaw validator)
-There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2Fmichael-jordan-at-chicago-bulls%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-![Jigsaw W3](assets/images/Screenshot%20-%20Jigsaw%20CSS.png)
+![Jigsaw W3](assets/images/Jigsaw%20Validator.png)
 
 ### Responsiveness Test
 
@@ -188,13 +187,13 @@ This was successfully fixed by renaming all affected image file names and editin
 The website was deployed to GitHub pages. The steps to deploy are as follows:
 
 
-![Deployment](assets/images/Screenshot%20-%20Deployment.png)
+![Deployment](assets/images/Deployment.png)
 
 
 - Enter the GitHub repository and navigate to the Settings tab
 - In the source section, select the Master Branch
 
-Here is the live link: - [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/Michael-Jordan-The-Chicago-Bulls-/)
+Here is the live link: - [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/michael-jordan-at-chicago-bulls/)
 
 ### How to create a local clone of this project
 
