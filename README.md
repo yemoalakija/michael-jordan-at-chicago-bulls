@@ -64,7 +64,7 @@ This website profiles the legendary NBA Basketball athlete, Michael Jordan and h
 Here is the link to the website: [Michael Jordan at The Chicago Bulls](https://yemoalakija.github.io/michael-jordan-at-chicago-bulls/)
 
 
-![mediascreensizes](assets/images/Screenshot%20-%20Media-sizes.png)
+![mediascreensizes](assets/images/mutliScreenshot.png)
 
 ## USER EXPERIENCE (UX)
 
@@ -109,7 +109,7 @@ This page details Michael Jordan's biography in brief bullet points to cature th
 There is also an overlay effect on his name "Michael Jordan" in the header section. 
 
 
-![home](assets/images/Screenshot%20-%20Home.png)
+![home](assets/images/homeshot%20(76).png)
 
 
 #### Legacy
@@ -117,18 +117,20 @@ There is also an overlay effect on his name "Michael Jordan" in the header secti
 This page is the main centre-focus of the website; i.e it illustrates his awards and achievements in all the years he played for The Chicago Bulls basketball team. 
 
 
-![legacy](assets/images/Screenshot%20-%20Legacy.png)
+![legacy](assets/images/legacyshot%20(77).png)
 
 
 #### Contact-Us
 
 This page is for users to contact-us for any enquiries. There is a contact form to be filled with personal information, followed by a red "submit" buttton. 
+There is a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
 
 
-![contact-us](assets/images/Screenshot%20-%20Contact-Submit.png)
+![contact-us](assets/images/conactusshot%20(78).png)
 
+This takes the user to a "Thank you for contacting us" page which has a return button that navigates back to the home page. 
 
-ALL 3 naviagtion pages have a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
+![thankyou](assets/images/thanksshot%20(79).png)
 
 ### Future Features
 
@@ -149,9 +151,9 @@ As shown in the picture below, this website passes all criteria including Perfor
 ### Validator Testing 
 
 - HTML
-There were no errors found as seen here: [Validator W3](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2FMichael-Jordan-The-Chicago-Bulls-%2F)
+There were no errors found as seen here: [Validator W3](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyemoalakija.github.io%2Fmichael-jordan-at-chicago-bulls%2F)
 
-![Validator W3](assets/images/Screenshot%20-%20Validate%20HTML.png)
+![Validator W3](assets/images/htmlvalidator.png)
 
 - CSS (Jigsaw validator)
 There were no errors found as seen here: [Jigsaw W3](https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fyemoalakija.github.io%2Fmichael-jordan-at-chicago-bulls%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -169,11 +171,7 @@ The Michael Jordan at The Chicago Bulls website was succcesfully tested on the f
 
 ### Fixed Bugs
 
-There was 1 pattern of errors found in <img scr> of home page on lines 68, 69 and 70. The 3 errors as stated on Validator W3 checker states as follows:
-"Error: Bad value assets/images/MJ smiling.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.
-From line 68, column 4; to line 68, column 60"
-
-This was successfully fixed by renaming all affected image file names and editing without spaces. 
+No bugs found 
 
 ## TECHNOLOGIES USED
 
@@ -206,6 +204,8 @@ Acces Github and follow below instructions:
 - STEP 5 - Type git clone, and then paste the URL copied from GitHub.
 
 ## CREDIT
+
+- [I Am Responsive](https://amiresponsive.co.uk/) - Used for Multimedia screens 
 
 ### Content 
 
