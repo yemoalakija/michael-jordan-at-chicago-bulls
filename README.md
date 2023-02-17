@@ -145,7 +145,7 @@ This website was tested using Lighthouse Testing and Validator Testing.
 As shown in the picture below, this website passes all criteria including Performance, Accessibility, Best Practices and SEO. 
 
 
-![Lighthouse Test](assets/images/Screenshot%20-%20Lighthouse%20test.png)
+![Lighthouse Test](assets/images/LighthouseTest.png)
 
 
 ### Validator Testing 
@@ -207,6 +207,10 @@ Acces Github and follow below instructions:
 
 - [I Am Responsive](https://amiresponsive.co.uk/) - Used for Multimedia screens 
 
+- [HTML Validator W3](https://validator.w3.org)
+
+- [CSS Jigsaw W3](https://jigsaw.w3.org/css-validator/)
+
 ### Content 
 
  - [Britannica](https://www.britannica.com/biography/Michael-Jordan)
@@ -219,9 +223,6 @@ Acces Github and follow below instructions:
 
 - [FadeAway World](https://fadeawayworld.net/nba/nba-championship-winners-from-1991-to-2000-michael-jordan-and-chicago-bulls-won-6-championships-in-two-three-peats)
 
-- In general, inspiration for this website was taken from The Love Running website of the Code Institute course [Love Running](https://yemoalakija.github.io/love-running-/).
-
-- Inspiration for the layout on this website's README file came from [Wawas Wood](https://github.com/EwanColquhoun/wawaswoods) and [Love Running](https://github.com/Code-Institute-Solutions/readme-template)
 
 ### Media 
 
