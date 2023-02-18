@@ -83,7 +83,8 @@ The wireframes for this website were produced in [Balsamiq](https://balsamiq.com
 
 ### Site Structure
 
-This website has four pages. The home page is the default page, legacy, contact-us and Thank-you pages are all accessible from the navigation menu. There is a "Click to return to the homepage" button on the thank-you page. 
+The webiste comprises of 3 navigable sections namely: Home, Legacy and Contact-Us. It has a footer at the bottom of this page which has a clickable Youtube link that takes the user to an external page to watch "The Best of Michael Jordan's playoff games"
+The Contact-Us page has a user input form and submit buttom that takes the user to "Thank-you page". There is a "Click to return to the homepage" button on the thank-you page. 
 
 ### Design Choices
 
@@ -105,8 +106,7 @@ These features enable the user to comfortably navigate from page to page using a
 
 #### Home
 
-This page details Michael Jordan's biography in brief bullet points to cature the attention of the reader at a glance. It also mentions his background in his basketball career. 
-There is also an overlay effect on his name "Michael Jordan" in the header section. 
+This is the front page of the website that introduces Michael Jordan and its followed by his biography in brief to cature the attention of the reader at a glance. It also mentions his background in his basketball career. 
 
 
 ![home](assets/images/homeshot%20(76).png)
@@ -114,7 +114,7 @@ There is also an overlay effect on his name "Michael Jordan" in the header secti
 
 #### Legacy
 
-This page is the main centre-focus of the website; i.e it illustrates his awards and achievements in all the years he played for The Chicago Bulls basketball team. 
+This page illustrates his awards and achievements in all the years he played for The Chicago Bulls basketball team. 
 
 
 ![legacy](assets/images/legacyshot%20(77).png)
@@ -122,8 +122,7 @@ This page is the main centre-focus of the website; i.e it illustrates his awards
 
 #### Contact-Us
 
-This page is for users to contact-us for any enquiries. There is a contact form to be filled with personal information, followed by a red "submit" buttton. 
-There is a footer section at the bottom. This is a Youtube socia media link which can be clicked to watch "The Best of Michael Jordan's playoff games"
+This page is for users to contact-us for any enquiries. There is a contact form to be filled with personal information such as name, email and location. 
 
 
 ![contact-us](assets/images/conactusshot%20(78).png)
@@ -205,11 +204,11 @@ Acces Github and follow below instructions:
 
 ## CREDIT
 
-- [I Am Responsive](https://amiresponsive.co.uk/) - Used for Multimedia screens 
+- [I Am Responsive](https://amiresponsive.co.uk/) - Used for Multimedia screens.
 
-- [HTML Validator W3](https://validator.w3.org)
+- [HTML Validator W3](https://validator.w3.org) - Used to Validate HTML code.
 
-- [CSS Jigsaw W3](https://jigsaw.w3.org/css-validator/)
+- [CSS Jigsaw W3](https://jigsaw.w3.org/css-validator/)  - Used to Validate CSS code.
 
 ### Content 
 
@@ -242,4 +241,4 @@ Acces Github and follow below instructions:
 
 ## ACKNOWLEDGEMENT 
 
-This website was completed in accordance with the criteria for Portfolio 1 Project of The Full Stack Software Developer Diploma at the Code Institute. My special gratitude goes to everyone that has made this project successful including my mentor Precious Ijege, the Slack community (particularly Shaun Buck and Kera Cudmore) and the entire Code Institute for their support and assistance. 
+This website was completed in accordance with the criteria for Portfolio 1 Project of The Full Stack Software Developer Diploma at the Code Institute.  
